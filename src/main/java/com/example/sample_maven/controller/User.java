@@ -12,8 +12,8 @@ public class User {
 	public UserResponse getUser() {
 		UserResponse response=new UserResponse();
 		response.setId(101L);
-		response.setUserName("Harish Rawat");
-		response.setEmailId("harsh@gmail.com");
+		response.setUserName("Hari Gupta");
+		response.setEmailId("guptah@gmail.com");
 		return response;
 	}
 }
